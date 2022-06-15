@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVPeople.Web", "CSVPeople.Web\CSVPeople.Web.csproj", "{86808EA3-7BDA-4869-841B-7D8114A00729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVPeople.Data", "CSVPeople.Data\CSVPeople.Data.csproj", "{1B64E432-DEA1-4056-BDB7-83CA52938338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86808EA3-7BDA-4869-841B-7D8114A00729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86808EA3-7BDA-4869-841B-7D8114A00729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86808EA3-7BDA-4869-841B-7D8114A00729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86808EA3-7BDA-4869-841B-7D8114A00729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B64E432-DEA1-4056-BDB7-83CA52938338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B64E432-DEA1-4056-BDB7-83CA52938338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B64E432-DEA1-4056-BDB7-83CA52938338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B64E432-DEA1-4056-BDB7-83CA52938338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39915B02-80CC-4B39-8EC8-0608F5674BEB}
+	EndGlobalSection
+EndGlobal
